@@ -56,7 +56,7 @@ El análisis sugiere que la ausencia de indicadores de gestión afecta negativam
 
 ## 📁 Estructura del archivo
 
-- `main.ipynb`: Código y análisis completo en Google Colab.
+- `Metodos_1era_Asignación.ipynb`: Código y análisis completo en Google Colab.
 - `README.md`: Descripción del proyecto.
 
 ---
@@ -64,7 +64,7 @@ El análisis sugiere que la ausencia de indicadores de gestión afecta negativam
 ## ✅ Cómo reproducir el análisis
 
 1. Clona este repositorio.
-2. Abre el archivo `main.ipynb` en Google Colab.
+2. Abre el archivo `Metodos_1era_Asignación.ipynb` en Google Colab.
 3. Ejecuta las celdas paso a paso.
 
 ---
