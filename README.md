@@ -1,4 +1,4 @@
-# Análisis de la Influencia de la Ausencia de Indicadores de Gestión en la Toma de Decisiones Estratégicas
+# Indicadores de Gestión para la Toma de Decisiones Estratégicas
 
 Este proyecto analiza cómo la falta de indicadores de gestión afecta la toma de decisiones estratégicas en una empresa minorista dedicada a la venta de electrodomésticos. A través de un conjunto de datos simulados y el uso de herramientas estadísticas, se busca demostrar la relación entre el uso de indicadores y la eficiencia en las decisiones gerenciales.
 
